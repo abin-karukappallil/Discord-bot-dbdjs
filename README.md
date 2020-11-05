@@ -3,8 +3,8 @@
 # This Package, allows you to make Discord Bot with ease!
 ## Are you Familiar with BDFD aka Bot Designer for Discord?
 ### Then you can easily transfer your code into this Package with no issues!
-
 ## To start, just do `node .`
+## Remember change `TOKEN` in `server.js`
 
 ### Example ⛏
 
