@@ -27,10 +27,14 @@ bot.status({
 })
 
 bot.status({
-  text: "Add as many you need!",
+  text: "Changed of Status!",
   type: "PLAYING",
+  status: "idle",
   time: 12
 })
+
+//Read more information about status in docs:
+//https://dbd.leref.ga/guide/bot-status
 
 //variables
 
@@ -38,3 +42,5 @@ bot.variables({
     Name: "Value",
     Name2: "Value2"
   })
+
+//You can add more variables :)
