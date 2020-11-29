@@ -44,3 +44,4 @@ bot.variables({
   })
 
 //You can add more variables :)
+//Join our Support Server & read Documentation for help :)
